@@ -1,4 +1,3 @@
-/* from frog2-img.h */
 /* GdkPixbuf RGB C-Source image dump 1-byte-run-length-encoded */
 
 #define POKY_IMG_ROWSTRIDE (2400)
